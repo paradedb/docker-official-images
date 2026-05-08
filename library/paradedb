@@ -3,16 +3,16 @@ Maintainers: Isaac Van Doren <isaac@paradedb.com> (@isaacvando),
 Architectures: amd64, arm64v8
 GitRepo: https://github.com/paradedb/paradedb.git
 GitFetch: refs/heads/main
-GitCommit: TODO
+GitCommit: 02c7d666d8961f6945ffe0d9d68cbd910024abe6
 
-Tags: latest, 0.23.1, 0.23.1-pg18, v0.23.1, v0.23.1-pg18, 18-v0.23.1
+Tags: latest, 0.23.4, 0.23.4-pg18, v0.23.4, v0.23.4-pg18, 18-v0.23.4
 Directory: docker/official/18
 
-Tags: 0.23.1-pg17, v0.23.1-pg17, 17-v0.23.1
+Tags: 0.23.4-pg17, v0.23.4-pg17, 17-v0.23.4
 Directory: docker/official/17
 
-Tags: 0.23.1-pg16, v0.23.1-pg16, 16-v0.23.1
+Tags: 0.23.4-pg16, v0.23.4-pg16, 16-v0.23.4
 Directory: docker/official/16
 
-Tags: 0.23.1-pg15, v0.23.1-pg15, 15-v0.23.1
+Tags: 0.23.4-pg15, v0.23.4-pg15, 15-v0.23.4
 Directory: docker/official/15
