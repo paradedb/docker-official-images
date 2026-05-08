@@ -1,5 +1,6 @@
 Maintainers: Isaac Van Doren <isaac@paradedb.com> (@isaacvando),
-             Philippe Noël <phil@paradedb.com> (@philippemnoel)
+             Philippe Noël <phil@paradedb.com> (@philippemnoel),
+             Ming Ying <ming@paradedb.com> (@rebasedming)
 Architectures: amd64, arm64v8
 GitRepo: https://github.com/paradedb/paradedb.git
 GitFetch: refs/heads/main
