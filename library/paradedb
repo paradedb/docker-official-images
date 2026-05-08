@@ -5,18 +5,18 @@ GitRepo: https://github.com/paradedb/paradedb.git
 GitFetch: refs/heads/main
 GitCommit: 0aae126e170bdcbdf68f95befe96817bf7b54a3b
 
-Tags: latest, 0.23.4, 0.23.4-pg18, v0.23.4, v0.23.4-pg18, 18-v0.23.4
+Tags: latest, 0.23.4, 0.23.4-pg18, v0.23.4, v0.23.4-pg18, 18-v0.23.4, pg18
 Directory: docker
 File: official/18/Dockerfile
 
-Tags: 0.23.4-pg17, v0.23.4-pg17, 17-v0.23.4
+Tags: 0.23.4-pg17, v0.23.4-pg17, 17-v0.23.4, pg17
 Directory: docker
 File: official/17/Dockerfile
 
-Tags: 0.23.4-pg16, v0.23.4-pg16, 16-v0.23.4
+Tags: 0.23.4-pg16, v0.23.4-pg16, 16-v0.23.4, pg16
 Directory: docker
 File: official/16/Dockerfile
 
-Tags: 0.23.4-pg15, v0.23.4-pg15, 15-v0.23.4
+Tags: 0.23.4-pg15, v0.23.4-pg15, 15-v0.23.4, pg15
 Directory: docker
 File: official/15/Dockerfile
